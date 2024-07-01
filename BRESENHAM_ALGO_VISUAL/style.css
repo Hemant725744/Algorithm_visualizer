@@ -1,0 +1,31 @@
+body {
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+    margin: 20px;
+    background-image: linear-gradient(-90deg,blue,pink);
+  }
+  
+  h1 {
+    color: white;
+    
+  }
+  
+  .input-container {
+    margin: 10px;
+    color:aliceblue
+  }
+  
+  input, button {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  #canvas-container {
+    margin: auto;
+    border: 1px solid #333;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+  }
+  
